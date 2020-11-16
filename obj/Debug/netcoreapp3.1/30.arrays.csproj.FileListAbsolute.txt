@@ -1,0 +1,13 @@
+C:\Users\Bla\source\repos\DataTypes\30.arrays\bin\Debug\netcoreapp3.1\30.arrays.exe
+C:\Users\Bla\source\repos\DataTypes\30.arrays\bin\Debug\netcoreapp3.1\30.arrays.deps.json
+C:\Users\Bla\source\repos\DataTypes\30.arrays\bin\Debug\netcoreapp3.1\30.arrays.runtimeconfig.json
+C:\Users\Bla\source\repos\DataTypes\30.arrays\bin\Debug\netcoreapp3.1\30.arrays.runtimeconfig.dev.json
+C:\Users\Bla\source\repos\DataTypes\30.arrays\bin\Debug\netcoreapp3.1\30.arrays.dll
+C:\Users\Bla\source\repos\DataTypes\30.arrays\bin\Debug\netcoreapp3.1\30.arrays.pdb
+C:\Users\Bla\source\repos\DataTypes\30.arrays\obj\Debug\netcoreapp3.1\30.arrays.AssemblyInfoInputs.cache
+C:\Users\Bla\source\repos\DataTypes\30.arrays\obj\Debug\netcoreapp3.1\30.arrays.AssemblyInfo.cs
+C:\Users\Bla\source\repos\DataTypes\30.arrays\obj\Debug\netcoreapp3.1\30.arrays.csproj.CoreCompileInputs.cache
+C:\Users\Bla\source\repos\DataTypes\30.arrays\obj\Debug\netcoreapp3.1\30.arrays.dll
+C:\Users\Bla\source\repos\DataTypes\30.arrays\obj\Debug\netcoreapp3.1\30.arrays.pdb
+C:\Users\Bla\source\repos\DataTypes\30.arrays\obj\Debug\netcoreapp3.1\30.arrays.genruntimeconfig.cache
+C:\Users\Bla\source\repos\DataTypes\30.arrays\obj\Debug\netcoreapp3.1\30.arrays.csprojAssemblyReference.cache
